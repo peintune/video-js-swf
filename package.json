@@ -15,7 +15,7 @@
     "url": "https://github.com/videojs/video-js-swf.git"
   },
   "devDependencies": {
-    "async": "~0.2.9",
+    "async": "~2.6.4",
     "chg": "^0.3.2",
     "flex-sdk": "4.6.0-0",
     "grunt": "~0.4.0",
